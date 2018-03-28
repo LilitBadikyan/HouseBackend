@@ -1,0 +1,10 @@
+const AppConstants = {
+  DEFAULT_LIMIT_VALUE: 20,
+  DEFAULT_OFFSET_VALUE: 0,
+  USERNAME_MAX_LENGHT: 50,
+  USERNAME_MIN_LENGHT: 3,
+  PASSWORD_MAX_LENGHT: 20,
+  PASSWORD_MIN_LENGTH: 6
+}
+
+module.exports = AppConstants;
